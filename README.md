@@ -6,7 +6,8 @@ Petrophysical utilities
 
     pip uninstall petpy
     python setup.py sdist
-    pip install dist/petpy-0.2.tar.gz
+    pip install dist/
+    petpy-0.2.tar.gz
 
 ## Developing
 
