@@ -1,5 +1,5 @@
 """
-Petrophysics equations
+Petrophysics equations needs more work
 """
 
 
